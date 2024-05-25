@@ -1,0 +1,40 @@
+-- inlineStyle -- internal -- external
+-- css Selectors
+-- colors
+-- background
+-- margin padding
+-- borders
+-- width -- height -display
+-- border
+-- box model
+-- outline
+-- fonts -- align
+-- opacity
+-- position
+-- float
+-- links
+-- units
+-- Css specificity
+
+/*-----------------------*/
+/* 
+
+div,p ==> select any element from dom
+== element.className
+== .className
+== #idName
+/*top right bottom left*/
+
+*/
+
+/* div p:nth-child(1) {
+	background-color: blue;
+}
+
+div p:nth-of-type(1) {
+	background-color: red;
+} */
+
+/* div > p {
+	background-color: red;
+} */
