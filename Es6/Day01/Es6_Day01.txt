@@ -1,0 +1,14 @@
+1- Write a function that takes an array of numbers and returns a new array containing only the positive numbers.
+
+2- Write a function that takes an array of numbers and returns the sum of all the numbers.(reduce)
+
+3- Write a function that takes an array of names and returns a new array with each name capitalized.
+
+4-Write a JavaScript program to check whether a string is lower case or not.
+
+5-Write an arrow function that takes an array of strings and a length, and returns a new array containing only the strings with length greater than the specified value.
+
+
+lab1//
+ ==> https://github.com/sara53/Es6/blob/master/Day01/Lab/ES6%20lab%20Day%201.pdf
+
